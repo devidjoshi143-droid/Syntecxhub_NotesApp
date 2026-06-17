@@ -25,4 +25,4 @@ The application uses SQLiteOpenHelper for local database storage.
 
 ## Author
 
-Devid Joshiv
+Devid Joshi
